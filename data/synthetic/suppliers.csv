@@ -1,0 +1,16 @@
+supplier_id,supplier_code,name,origin_address,standard_lead_days,contracted_sla_rate,reliability_score,created_at
+ccfb71dd-da25-41f9-beb5-ace4b245b0be,SUP_01,Al Ain Farms Dairy & Poultry,"Al Ain, UAE",2,0.98,0.954,2026-11-07T18:02:11.203813
+86732c0f-2c89-4984-b8d1-1fb4595f08b1,SUP_02,National Food Products Co (NFPC),"Dubai, UAE",2,0.95,0.946,2026-11-07T18:02:11.203813
+d03b0c5c-b8f1-482f-997a-a80113b7a090,SUP_03,Gulf Food Industries (Americana),"Sharjah, UAE",3,0.92,0.914,2026-11-07T18:02:11.203813
+ed48ab25-a522-4e79-901e-af2278190fd9,SUP_04,Agthia Group Logistics,"Abu Dhabi, UAE",2,0.96,0.963,2026-11-07T18:02:11.203813
+f7185251-f1dc-4d74-8c5e-f09ace1fd5ec,SUP_05,Dabur Regional Distribution,"JAFZA, Dubai",4,0.9,0.902,2026-11-07T18:02:11.203813
+0bcc2590-022b-41eb-a9d2-4f84f174a1ed,SUP_06,Unilever GCC Logistics,"Dubai Industrial City, UAE",5,0.94,0.926,2026-11-07T18:02:11.203813
+464722db-01da-496c-a300-7944cd871bcd,SUP_07,Nestle Middle East Distribution,"Technopark, Dubai",4,0.97,0.957,2026-11-07T18:02:11.203813
+337364aa-5ee0-4da4-95a6-2b216c8fde3c,SUP_08,Mondelez Middle East Hub,Bahrain/UAE Corridor,6,0.89,0.869,2026-11-07T18:02:11.203813
+c5bc2830-ac4b-4bc2-9c10-94ffc665f961,SUP_09,IFFCO Gulf Consumer Brands,"Sharjah, UAE",3,0.93,0.941,2026-11-07T18:02:11.203813
+c9488499-65c1-4c6d-aa5d-c25f198176e0,SUP_10,P&G Arabian Peninsula Distribution,"JAFZA, Dubai",5,0.91,0.915,2026-11-07T18:02:11.203813
+ff131533-e5cb-400e-9962-1a7bf4ac9750,SUP_11,Al Rawabi Dairy Co,"Al Khawaneej, Dubai",1,0.99,0.96,2026-11-07T18:02:11.203813
+77bba010-d918-436f-8fc9-a13503e33863,SUP_12,Emirates Refreshments (Jeema),"Dibba/Dubai, UAE",2,0.94,0.926,2026-11-07T18:02:11.203813
+c1da763a-690b-4e0f-97ce-f364528970b6,SUP_13,Reckitt Benckiser Middle East,"Al Quoz, Dubai",4,0.92,0.899,2026-11-07T18:02:11.203813
+ff728814-f3ca-4e89-a9d5-dfcf14f2087d,SUP_14,Henkel GCC Supply Chain,"Dubai Media City/DIC, UAE",4,0.9,0.876,2026-11-07T18:02:11.203813
+6436cebd-4ade-4de8-ad3d-c26afc47e65a,SUP_15,Global Trade Importers Ltd,"Port Khalid, Sharjah",7,0.86,0.865,2026-11-07T18:02:11.203813

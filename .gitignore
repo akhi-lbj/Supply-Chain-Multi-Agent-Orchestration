@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Local SQLite & Session Databases
+data/*.db
+data/*.db-journal
+src/agents/.adk/
+
+# Large M5 Raw & Intermediate Parquet Datasets
+data/raw/
+data/processed/
+
+# OS & Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

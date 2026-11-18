@@ -1,0 +1,23 @@
+[project]
+name = "nexus-forecasting"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "adk>=0.0.5",
+    "fastapi>=0.162.1",
+    "google>=3.0.0",
+    "google-adk>=2.14.0",
+    "joblib>=1.6.0",
+    "litellm>=1.108.2",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.0",
+    "psycopg>=3.3.8",
+    "pyarrow>=26.0.0",
+    "pydantic>=2.14.3",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "xgboost>=3.4.1",
+]

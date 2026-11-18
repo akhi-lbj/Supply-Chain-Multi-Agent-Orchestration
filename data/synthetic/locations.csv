@@ -1,0 +1,24 @@
+location_id,location_code,name,location_type,emirate,address,capacity_pallets,created_at
+e4e91c8e-3d3d-40d2-abd6-b3a67263258e,DC_JAFZA,Jebel Ali Regional Hub,WAREHOUSE,Dubai,"JAFZA South Zone 1, Jebel Ali, Dubai",15000,2026-11-07T18:02:11.201973
+680895fc-3ee2-4997-a1fb-ecaa3e571260,DC_AL_QUOZ,Al Quoz Central Distribution Center,WAREHOUSE,Dubai,"Al Quoz Industrial Area 3, Dubai",8000,2026-11-07T18:02:11.201973
+307328b0-df7b-4e3a-b642-cb9099f3a04f,DC_DIC,Dubai Industrial City Logistics Buffer,WAREHOUSE,Dubai,"Dubai Industrial City, Saih Shuaib 2, Dubai",20000,2026-11-07T18:02:11.201973
+91ce1e42-b073-4618-92ba-87645138651e,STR_DXB_01,Dubai Mall Flagship,STORE,Dubai,"Downtown Dubai, Dubai",527,2026-11-07T18:02:11.201973
+d7191c86-0eec-4748-8d74-bb28f15602e3,STR_DXB_02,Mall of the Emirates Hypermarket,STORE,Dubai,"Al Barsha 1, Dubai",257,2026-11-07T18:02:11.201973
+c650f61d-02e3-4276-84f1-373d3428968f,STR_DXB_03,City Centre Mirdif,STORE,Dubai,"Mirdif, Dubai",212,2026-11-07T18:02:11.201973
+26ea3cb2-d656-4bc7-a76e-4631cb344778,STR_DXB_04,Dubai Hills Mall,STORE,Dubai,"Dubai Hills Estate, Dubai",579,2026-11-07T18:02:11.201973
+c8fe0562-5665-44c7-8995-ac231561ceb3,STR_DXB_05,Dubai Festival City,STORE,Dubai,"Festival City, Dubai",340,2026-11-07T18:02:11.201973
+d7d1d0ed-9b6b-4f33-a8e5-29555672cbbf,STR_DXB_06,Deira City Centre,STORE,Dubai,"Deira, Dubai",325,2026-11-07T18:02:11.201973
+c9f62231-a50d-465c-9601-8122b8ed7882,STR_DXB_07,Ibn Battuta Mall,STORE,Dubai,"Jebel Ali Village, Dubai",314,2026-11-07T18:02:11.201973
+d490e200-c8d3-4e28-af1f-689a83ca5c59,STR_DXB_08,Al Barsha South Community Store,STORE,Dubai,"Al Barsha South, Dubai",271,2026-11-07T18:02:11.201973
+4d226cb1-2751-490d-a225-a085c29db404,STR_DXB_09,Jumeirah Beach Residence (JBR),STORE,Dubai,"The Walk, JBR, Dubai",577,2026-11-07T18:02:11.201973
+caff1615-304f-4db7-a250-528fb250b96c,STR_DXB_10,Dubai Silicon Oasis Express,STORE,Dubai,"DSO Central, Dubai",252,2026-11-07T18:02:11.201973
+ca05869e-170b-45d1-adf7-50a9672a8b43,STR_DXB_11,Al Karama Market Hub,STORE,Dubai,"Al Karama, Dubai",546,2026-11-07T18:02:11.201973
+029375f9-f9da-468a-a3b6-ac5272d17d41,STR_DXB_12,Al Nahda Urban Market,STORE,Dubai,"Al Nahda 2, Dubai",579,2026-11-07T18:02:11.201973
+e1bc4a09-cf9b-4c59-bb44-4a7ac379420e,STR_DXB_13,Bur Dubai Superstore,STORE,Dubai,"Al Mankhool, Bur Dubai",479,2026-11-07T18:02:11.201973
+d3cbcc86-5fae-4175-b2c1-44ddf842c430,STR_DXB_14,Motor City Community Hub,STORE,Dubai,"Detroit Road, Motor City, Dubai",244,2026-11-07T18:02:11.201973
+3743fe3f-50e6-4357-850d-c0698fbb7bfa,STR_DXB_15,Jumeirah Village Circle (JVC),STORE,Dubai,"District 10, JVC, Dubai",502,2026-11-07T18:02:11.201973
+750cc974-fdfc-4db7-b3b3-8b15bbd592ab,STR_SHJ_01,City Centre Sharjah,STORE,Sharjah,"Al Nahda Street, Sharjah",416,2026-11-07T18:02:11.201973
+464974f1-fbc9-4438-95b5-d3f5ed321b13,STR_SHJ_02,Al Majaz Waterfront Store,STORE,Sharjah,"Al Majaz 2, Sharjah",216,2026-11-07T18:02:11.201973
+e0b929a1-a8e6-4176-921d-b147634e336a,STR_SHJ_03,Muwaileh Commercial Hub,STORE,Sharjah,"University City Road, Sharjah",215,2026-11-07T18:02:11.201973
+bae8a28c-e7ed-434d-8fb6-47632870eddd,STR_AUH_01,Yas Mall Hyperstore,STORE,Abu Dhabi,"Yas Island, Abu Dhabi",247,2026-11-07T18:02:11.201973
+4fca1100-6fae-4e4c-b598-e6714f05df09,STR_AUH_02,Al Wahda Central,STORE,Abu Dhabi,"Hazaa Bin Zayed Street, Abu Dhabi",311,2026-11-07T18:02:11.201973
